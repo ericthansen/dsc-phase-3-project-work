@@ -131,7 +131,7 @@ Actionable items:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./phase_3_project_notebook_final.ipynb) or our [presentation](./Project 3_EH_pdf.pdf.
+Please review our full analysis in [our Jupyter Notebook](./phase_3_project_notebook_final.ipynb) or our [presentation](./Project 3_EH_pdf.pdf).
 
 For any additional questions, please contact **Eric Hansen, ericthansen at gmail.com**
 
